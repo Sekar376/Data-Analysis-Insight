@@ -1,6 +1,6 @@
 1. SQL database dump is in db_dump.sql .
 
-## Data Analysis Using SQL
+####  Data Analysis Using SQL
 
 1. Show all customer records
 
